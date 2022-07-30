@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+<met:element form="text" read-only="false" name="Author">Maarit Laukkanen</met:element>
+<met:element form="date" read-only="false" name="Creation Date">20/3/2020/12:00:01 +02:00</met:element>
+<met:element form="multiline" read-only="false" name="Comments">08 Regression Model
+
+Exercise for training a model for numeric prediction.&#13;
+&#13;
+Train and apply a linear regression model. Evaluate the performance with numeric scoring metrics.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+
+
+VIDEO: Numeric Scorer Node https://youtu.be/243VC3qkM-A
+TAGS: r-squared,error metric,linear regression</met:element>
+</met:KNIMEMetaInfo>
